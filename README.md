@@ -34,8 +34,11 @@ The lower panel (d-f, all cells included) highlights that when the walkers inter
 This is illustrated by the coloured arrows in panel f: the orange arrow relates to vertical tortuosity, the reciprocal of its slope is 1.24 which can be interpreted as a tortuosity of 1.24 m2 m-2.
 The same approach applies for the overall tortuosity (black arrow) and horizontal tortuosity (green arrow).  (note that for this 2D example we used 10 000 walkers and 10 000 steps
 
+The animation below visulises the simulation. Note that walkers outside the mesophyll cells are in a reflected image
+![](RWgifcropped.gif)
+
+The ‘random walk’ workflow for calculating the directional tortuosity in the IAS using E. parramattensis as a 3D example. 
 # Setting up the random walk simulation  
-# Understanding Airspace in Leaves: 3D Anatomy and Directional Tortuosity
 ## Code to calculate directional tortuosity for the whole leaf and leaf sub volumes
 
 Load packages
