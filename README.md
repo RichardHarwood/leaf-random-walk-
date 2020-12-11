@@ -147,6 +147,6 @@ We then get the following output
 
 ![Screenshot](RWoutput.png)
 
-Which can be intpreted 
+Which can be intpreted as described in the figure above.  
 
 
