@@ -1,5 +1,4 @@
 # Understanding Airspace in Leaves: 3D Anatomy and Directional Tortuosity
-## Code to calculate directional tortuosity for the whole leaf and leaf sub volumes
 
 ## Background 
 Leaves vary in porosity (the proportion of air) and tortuosity (the amount of twists and turns) and this variation is related to leaf function. To investigate these properties we 
