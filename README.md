@@ -6,7 +6,7 @@ imaged 4 Eucalyptus leaves using serial block face scanning electron microscopy
 
 
 ![Screenshot](3D%20Eucs.png)
-3D renders of segmented SBF-SEM datasets. green indicates mesophyll cells, grey epidermis and blue the vascular bundle, the airspace if the void.  
+3D renders of segmented SBF-SEM datasets. green indicates mesophyll cells, grey epidermis and blue the vascular bundle, the airspace is the void.  
 
 We used the Pytrax package https://www.sciencedirect.com/science/article/pii/S2352711019302286 to calculate directional tortuosity for each species using a random walk technique.
 We did this for the whole leaf and also different leaf areas (the palisade and spongy mesophyll). 
